@@ -1,0 +1,5 @@
+pkg
+.env
+main
+src/github.com
+src/golang.org
